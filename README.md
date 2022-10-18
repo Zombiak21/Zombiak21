@@ -1,5 +1,5 @@
 <h1 align="center">Hej 👋, nazywam się Dominik Dubiel</h1>
-<h3 align="center">Jestem Front-End Developerem.</h3>
+<h3 align="center">Front-End Developer</h3>
 
 <br><br>
 
