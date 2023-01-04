@@ -6,7 +6,7 @@
 <h3 align="left">O mnie</h3>
 <p align="left"> 
 📖 Technikum TEB Edukacja w Katowicach. </br>
-💻 Aktualnie uczę się HTML, CSS, JS oraz C#.
+💻 Aktualnie uczę się HTML, CSS, JS.
 </p>
 <h3 align="right">Kontakt</h3>
 <p align="right">
